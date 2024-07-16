@@ -1,2 +1,2 @@
 # delta-demo
-This only for me
+This only for me.
